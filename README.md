@@ -1,2 +1,3 @@
 # My Git Project
 I am learning Git and GitHub
+This is my second Git practice
